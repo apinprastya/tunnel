@@ -1,0 +1,6 @@
+bin/
+tunnel/main
+main.gz
+main
+config.yml
+.vscode
